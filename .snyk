@@ -48,3 +48,8 @@ patch:
         patched: '2020-07-22T00:53:21.460Z'
     - electron > electron-download > nugget > request > tunnel-agent:
         patched: '2020-07-22T00:53:21.460Z'
+  SNYK-JS-LODASH-450202:
+    - react-redux > lodash:
+        patched: '2020-07-22T01:45:23.841Z'
+    - redux > lodash:
+        patched: '2020-07-22T01:45:23.841Z'
