@@ -4427,7 +4427,7 @@ is-path-inside@^3.0.1:
 
 is-posix-bracket@^0.1.0:
   version "0.1.1"
-  resolved "http://registry.npmjs.org/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz#3334dc79774368e92f016e6fbc0a88f5cd6e6bc4"
+  resolved "https://registry.npmjs.org/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz#3334dc79774368e92f016e6fbc0a88f5cd6e6bc4"
 
 is-primitive@^2.0.0:
   version "2.0.0"
@@ -5630,7 +5630,7 @@ mkpath@^0.1.0:
 
 mksnapshot@^0.3.0:
   version "0.3.0"
-  resolved "http://registry.npmjs.org/mksnapshot/-/mksnapshot-0.3.0.tgz#32ea984ad6f532324c6a3fae6400876b85828407"
+  resolved "https://registry.npmjs.org/mksnapshot/-/mksnapshot-0.3.0.tgz#32ea984ad6f532324c6a3fae6400876b85828407"
   dependencies:
     decompress-zip "0.3.0"
     fs-extra "0.26.7"
@@ -5809,9 +5809,9 @@ normalize-path@^2.0.1:
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-2.0.1.tgz#47886ac1662760d4261b7d979d241709d3ce3f7a"
 
 normalize-url@^4.1.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-4.5.0.tgz#453354087e6ca96957bd8f5baf753f5982142129"
-  integrity sha512-2s47yzUxdexf1OhyRi4Em83iQk0aPvwTddtFz4hnSSw9dCEsLEGf6SwIO8ss/19S9iBb5sJaOuTvTGDeZI00BQ==
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-4.5.1.tgz#0dd90cf1288ee1d1313b87081c9a5932ee48518a"
+  integrity sha512-9UZCFRHQdNrfTpGg8+1INIg93B6zE0aXMVFkw1WFwvO4SlZywU6aLg5Of0Ap/PgcbSw4LNxvMWXMeugwMCX0AA==
 
 npm-conf@^1.1.3:
   version "1.1.3"
@@ -7468,7 +7468,7 @@ snyk-try-require@1.3.1, snyk-try-require@^1.1.1, snyk-try-require@^1.3.1:
     lru-cache "^4.0.0"
     then-fs "^2.0.0"
 
-snyk@1.364.0, snyk@^1.364.0:
+snyk@^1.364.0:
   version "1.364.0"
   resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.364.0.tgz#4ad8acda04385561d4e991a2cfac6d92ddf3b960"
   integrity sha512-UaZfXqJayEOneOT5cLIu6ZRWzxJxKIGamytF9qmYpuRhuw9z1yOU4Ldot/+FmbD5En6kJFGebSwMNK30E0hg3w==
