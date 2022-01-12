@@ -67,7 +67,7 @@
     "electron": "^8.3.1",
     "glamor": "^2.17.14",
     "is_js": "^0.9.0",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "mathjs": "^3.17.0",
     "plist": "^3.0.1",
     "react": "^15.3.1",
